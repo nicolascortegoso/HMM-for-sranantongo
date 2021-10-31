@@ -1,0 +1,3152 @@
+{
+	"author": "Grace MacBean",
+	"title": "A gridi frow fu fisman Albert.",
+	"booktitle": "",
+	"editor": "",
+	"publisher": "Institut voor Taalwetenschap (SIL)",
+	"address": "http://suriname-languages.sil.org/Sranan/English/SrananEngLLIndex.html",
+	"year": 1993,
+	"sentences": 161,
+	"tokens": 2012,
+	"content": [
+	{
+		"srn": "A gridi frow fu fisman Albert.",
+		"en": "",
+		"nl": "De begerige vrouw van visser Albert.",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "gridi", "postag": "JJ"},
+			{ "position": 3, "token": "frow", "postag": "NN"},
+			{ "position": 4, "token": "fu", "postag": "IN"},
+			{ "position": 5, "token": "fisman", "postag": "NN"},
+			{ "position": 6, "token": "Albert", "postag": "NP"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "We, mi sa ferteri wan tori.",
+		"en": "",
+		"nl": "Het verhaal dat ik nu ga vertellen is mij lang terug door een oude vrouw verteld.",
+		"parse": [
+			{ "position": 1, "token": "We", "postag": "CC"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "mi", "postag": "PRN"},
+			{ "position": 4, "token": "sa", "postag": "AUX"},
+			{ "position": 5, "token": "ferteri", "postag": "VB"},
+			{ "position": 6, "token": "wan", "postag": "AT"},
+			{ "position": 7, "token": "tori", "postag": "NN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na wan bigisma ben ferteri mi a tori disi di mi ben de wan pikin fu seibi yari.",
+		"en": "",
+		"nl": "Ik was toen een kind van zeven jaar, maar ik kan mij dit verhaal nog heel goed herinneren omdat ik daar iets uit geleerd heb.",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "wan", "postag": "AT"},
+			{ "position": 3, "token": "bigisma", "postag": "NN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "ferteri", "postag": "VB"},
+			{ "position": 6, "token": "mi", "postag": "PRN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "tori", "postag": "NN"},
+			{ "position": 9, "token": "disi", "postag": "DT"},
+			{ "position": 10, "token": "di", "postag": "REL"},
+			{ "position": 11, "token": "mi", "postag": "PRN"},
+			{ "position": 12, "token": "ben", "postag": "TMA"},
+			{ "position": 13, "token": "de", "postag": "EX"},
+			{ "position": 14, "token": "wan", "postag": "AT"},
+			{ "position": 15, "token": "pikin", "postag": "NN"},
+			{ "position": 16, "token": "fu", "postag": "IN"},
+			{ "position": 17, "token": "seibi", "postag": "NUMB"},
+			{ "position": 18, "token": "yari", "postag": "NN"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na wan moi pisten kba.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "wan", "postag": "AT"},
+			{ "position": 3, "token": "moi", "postag": "JJ"},
+			{ "position": 4, "token": "pisten", "postag": "NN"},
+			{ "position": 5, "token": "kba", "postag": "VB"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma mi no fergiti en ete, bika a tori disi ben leri mi wan sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "fergiti", "postag": "VB"},
+			{ "position": 5, "token": "en", "postag": "PRN"},
+			{ "position": 6, "token": "ete", "postag": "VB"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "bika", "postag": "CS"},
+			{ "position": 9, "token": "a", "postag": "AT"},
+			{ "position": 10, "token": "tori", "postag": "NN"},
+			{ "position": 11, "token": "disi", "postag": "DT"},
+			{ "position": 12, "token": "ben", "postag": "TMA"},
+			{ "position": 13, "token": "leri", "postag": "VB"},
+			{ "position": 14, "token": "mi", "postag": "PRN"},
+			{ "position": 15, "token": "wan", "postag": "AT"},
+			{ "position": 16, "token": "sani", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A ben de so, dati wan frow nanga wan man ben libi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "de", "postag": "EX"},
+			{ "position": 4, "token": "so", "postag": "RB"},
+			{ "position": 5, "token": ",", "postag": "PNCT"},
+			{ "position": 6, "token": "dati", "postag": "COMPL"},
+			{ "position": 7, "token": "wan", "postag": "AT"},
+			{ "position": 8, "token": "frow", "postag": "NN"},
+			{ "position": 9, "token": "nanga", "postag": "CC"},
+			{ "position": 10, "token": "wan", "postag": "AT"},
+			{ "position": 11, "token": "man", "postag": "NN"},
+			{ "position": 12, "token": "ben", "postag": "TMA"},
+			{ "position": 13, "token": "libi", "postag": "VB"},
+			{ "position": 14, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow ben nen Alma èn a man ben nen Albert.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "nen", "postag": "VB"},
+			{ "position": 5, "token": "Alma", "postag": "NP"},
+			{ "position": 6, "token": "èn", "postag": "CC"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "man", "postag": "NN"},
+			{ "position": 9, "token": "ben", "postag": "TMA"},
+			{ "position": 10, "token": "nen", "postag": "VB"},
+			{ "position": 11, "token": "Albert", "postag": "NP"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Alma nanga Albert ben de tu poti sma.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Alma", "postag": "NP"},
+			{ "position": 2, "token": "nanga", "postag": "CC"},
+			{ "position": 3, "token": "Albert", "postag": "NP"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "de", "postag": "EX"},
+			{ "position": 6, "token": "tu", "postag": "NUMB"},
+			{ "position": 7, "token": "poti", "postag": "JJ"},
+			{ "position": 8, "token": "sma", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Te mi taki poti dan na poti srefi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Te", "postag": "CS"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": "poti", "postag": "NN"},
+			{ "position": 5, "token": "dan", "postag": "NN"},
+			{ "position": 6, "token": "na", "postag": "LOC"},
+			{ "position": 7, "token": "poti", "postag": "NN"},
+			{ "position": 8, "token": "srefi", "postag": "AP"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A oso pe den tu sma disi ben tan, ben de wan bigi owru patu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "oso", "postag": "NN"},
+			{ "position": 3, "token": "pe", "postag": "REL"},
+			{ "position": 4, "token": "den", "postag": "AT"},
+			{ "position": 5, "token": "tu", "postag": "NUMB"},
+			{ "position": 6, "token": "sma", "postag": "NN"},
+			{ "position": 7, "token": "disi", "postag": "DT"},
+			{ "position": 8, "token": "ben", "postag": "TMA"},
+			{ "position": 9, "token": "tan", "postag": "VB"},
+			{ "position": 10, "token": ",", "postag": "PNCT"},
+			{ "position": 11, "token": "ben", "postag": "TMA"},
+			{ "position": 12, "token": "de", "postag": "EX"},
+			{ "position": 13, "token": "wan", "postag": "AT"},
+			{ "position": 14, "token": "bigi", "postag": "JJ"},
+			{ "position": 15, "token": "owru", "postag": "JJ"},
+			{ "position": 16, "token": "patu", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so yu ben kan kari en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "yu", "postag": "PRN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "kan", "postag": "AUX"},
+			{ "position": 6, "token": "kari", "postag": "VB"},
+			{ "position": 7, "token": "en", "postag": "PRN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma mi e denki taki a ben de wan owru bari.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "e", "postag": "TMA"},
+			{ "position": 4, "token": "denki", "postag": "VB"},
+			{ "position": 5, "token": "taki", "postag": "COMPL"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "ben", "postag": "TMA"},
+			{ "position": 8, "token": "de", "postag": "EX"},
+			{ "position": 9, "token": "wan", "postag": "AT"},
+			{ "position": 10, "token": "owru", "postag": "JJ"},
+			{ "position": 11, "token": "bari", "postag": "NN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma a bigisma ben kari en wan patu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "bigisma", "postag": "NN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "kari", "postag": "VB"},
+			{ "position": 6, "token": "en", "postag": "PRN"},
+			{ "position": 7, "token": "wan", "postag": "AT"},
+			{ "position": 8, "token": "patu", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na drape den sma ben libi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "drape", "postag": "RB"},
+			{ "position": 3, "token": "den", "postag": "AT"},
+			{ "position": 4, "token": "sma", "postag": "NN"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "libi", "postag": "VB"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "So, masra Albert ben go ala dei go uku.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "So", "postag": "CC"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "masra", "postag": "NN"},
+			{ "position": 4, "token": "Albert", "postag": "NP"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "ala", "postag": "AB"},
+			{ "position": 8, "token": "dei", "postag": "NN"},
+			{ "position": 9, "token": "go", "postag": "VB"},
+			{ "position": 10, "token": "uku", "postag": "VB"},
+			{ "position": 11, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na san a ben fanga na dati den ben e nyan.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "san", "postag": "REL"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "fanga", "postag": "VB"},
+			{ "position": 6, "token": "na", "postag": "LOC"},
+			{ "position": 7, "token": "dati", "postag": "DT"},
+			{ "position": 8, "token": "den", "postag": "PRN"},
+			{ "position": 9, "token": "ben", "postag": "TMA"},
+			{ "position": 10, "token": "e", "postag": "TMA"},
+			{ "position": 11, "token": "nyan", "postag": "VB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Bikasi den no ben abi no wan tra sani fu nyan.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Bikasi", "postag": "CS"},
+			{ "position": 2, "token": "den", "postag": "PRN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "abi", "postag": "VB"},
+			{ "position": 6, "token": "no", "postag": "NEG"},
+			{ "position": 7, "token": "wan", "postag": "PRN"},
+			{ "position": 8, "token": "tra", "postag": "JJ"},
+			{ "position": 9, "token": "sani", "postag": "NN"},
+			{ "position": 10, "token": "fu", "postag": "COMPL"},
+			{ "position": 11, "token": "nyan", "postag": "VB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Te a no ben fanga noti, dan den no ben abi noti fu nyan.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Te", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "fanga", "postag": "VB"},
+			{ "position": 6, "token": "noti", "postag": "PRN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "dan", "postag": "CC"},
+			{ "position": 9, "token": "den", "postag": "PRN"},
+			{ "position": 10, "token": "no", "postag": "NEG"},
+			{ "position": 11, "token": "ben", "postag": "TMA"},
+			{ "position": 12, "token": "abi", "postag": "VB"},
+			{ "position": 13, "token": "noti", "postag": "PRN"},
+			{ "position": 14, "token": "fu", "postag": "COMPL"},
+			{ "position": 15, "token": "nyan", "postag": "VB"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so wan dei masra Albert ben go uku baka, a go sidon na sei a watra.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "wan", "postag": "AT"},
+			{ "position": 4, "token": "dei", "postag": "NN"},
+			{ "position": 5, "token": "masra", "postag": "NN"},
+			{ "position": 6, "token": "Albert", "postag": "NP"},
+			{ "position": 7, "token": "ben", "postag": "TMA"},
+			{ "position": 8, "token": "go", "postag": "VB"},
+			{ "position": 9, "token": "uku", "postag": "VB"},
+			{ "position": 10, "token": "baka", "postag": "RB"},
+			{ "position": 11, "token": ",", "postag": "PNCT"},
+			{ "position": 12, "token": "a", "postag": "PRN"},
+			{ "position": 13, "token": "go", "postag": "VB"},
+			{ "position": 14, "token": "sidon", "postag": "VB"},
+			{ "position": 15, "token": "na", "postag": "LOC"},
+			{ "position": 16, "token": "sei", "postag": "IN"},
+			{ "position": 17, "token": "a", "postag": "AT"},
+			{ "position": 18, "token": "watra", "postag": "NN"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan ai prakseri efu na so pinapina a sa tan en heri libi langa.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "ai", "postag": "NN"},
+			{ "position": 3, "token": "prakseri", "postag": "VB"},
+			{ "position": 4, "token": "efu", "postag": "CS"},
+			{ "position": 5, "token": "na", "postag": "FOC"},
+			{ "position": 6, "token": "so", "postag": "CC"},
+			{ "position": 7, "token": "pinapina", "postag": "NN"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "sa", "postag": "AUX"},
+			{ "position": 10, "token": "tan", "postag": "VB"},
+			{ "position": 11, "token": "en", "postag": "PP$"},
+			{ "position": 12, "token": "heri", "postag": "JJ"},
+			{ "position": 13, "token": "libi", "postag": "NN"},
+			{ "position": 14, "token": "langa", "postag": "RB"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala dei a ben musu go uku, èn a ben abi wan enkri ukutiki nomo.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "dei", "postag": "NN"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "musu", "postag": "AUX"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "uku", "postag": "VB"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "èn", "postag": "CC"},
+			{ "position": 10, "token": "a", "postag": "PRN"},
+			{ "position": 11, "token": "ben", "postag": "TMA"},
+			{ "position": 12, "token": "abi", "postag": "VB"},
+			{ "position": 13, "token": "wan", "postag": "AT"},
+			{ "position": 14, "token": "enkri", "postag": "JJ"},
+			{ "position": 15, "token": "ukutiki", "postag": "NN"},
+			{ "position": 16, "token": "nomo", "postag": "RB"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma wan dei di a sidon na sei liba e prakseri en libi , a firi taki wan sani e hari en uku tiki .",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "wan", "postag": "AT"},
+			{ "position": 3, "token": "dei", "postag": "NN"},
+			{ "position": 4, "token": "di", "postag": "REL"},
+			{ "position": 5, "token": "a", "postag": "PRN"},
+			{ "position": 6, "token": "sidon", "postag": "VB"},
+			{ "position": 7, "token": "na", "postag": "LOC"},
+			{ "position": 8, "token": "sei", "postag": "NN"},
+			{ "position": 9, "token": "liba", "postag": "NN"},
+			{ "position": 10, "token": "e", "postag": "TMA"},
+			{ "position": 11, "token": "prakseri", "postag": "VB"},
+			{ "position": 12, "token": "en", "postag": "PP$"},
+			{ "position": 13, "token": "libi", "postag": "NN"},
+			{ "position": 14, "token": ",", "postag": "PNCT"},
+			{ "position": 15, "token": "a", "postag": "PRN"},
+			{ "position": 16, "token": "firi", "postag": "VB"},
+			{ "position": 17, "token": "taki", "postag": "COMPL"},
+			{ "position": 18, "token": "wan", "postag": "AT"},
+			{ "position": 19, "token": "sani", "postag": "NN"},
+			{ "position": 20, "token": "e", "postag": "TMA"},
+			{ "position": 21, "token": "hari", "postag": "VB"},
+			{ "position": 22, "token": "en", "postag": "PP$"},
+			{ "position": 23, "token": "uku", "postag": "NN"},
+			{ "position": 24, "token": "tiki", "postag": "NN"},
+			{ "position": 25, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A prakseri: ‘Ai, mi feni wan sani’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "prakseri", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "Ai", "postag": "UH"},
+			{ "position": 6, "token": ",", "postag": "PNCT"},
+			{ "position": 7, "token": "mi", "postag": "PRN"},
+			{ "position": 8, "token": "feni", "postag": "VB"},
+			{ "position": 9, "token": "wan", "postag": "AT"},
+			{ "position": 10, "token": "sani", "postag": "NN"},
+			{ "position": 11, "token": ".", "postag": "PNCT"},
+			{ "position": 12, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a bigin hari.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "bigin", "postag": "VB"},
+			{ "position": 4, "token": "hari", "postag": "VB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma a sani ben hebi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "sani", "postag": "NN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "hebi", "postag": "ST"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a prakseri taki : ‘Ai , disi na wan bigi fisi san mi e hari dyaso.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "prakseri", "postag": "VB"},
+			{ "position": 4, "token": "taki", "postag": "COMPL"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Ai", "postag": "UH"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "disi", "postag": "DT"},
+			{ "position": 10, "token": "na", "postag": "COP"},
+			{ "position": 11, "token": "wan", "postag": "AT"},
+			{ "position": 12, "token": "bigi", "postag": "JJ"},
+			{ "position": 13, "token": "fisi", "postag": "NN"},
+			{ "position": 14, "token": "san", "postag": "REL"},
+			{ "position": 15, "token": "mi", "postag": "PRN"},
+			{ "position": 16, "token": "e", "postag": "TMA"},
+			{ "position": 17, "token": "hari", "postag": "VB"},
+			{ "position": 18, "token": "dyaso", "postag": "RB"},
+			{ "position": 19, "token": ".", "postag": "PNCT"},
+			{ "position": 20, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A poti wan futu go na fesi nanga wan go na baka, dan a bigin hari.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "poti", "postag": "VB"},
+			{ "position": 3, "token": "wan", "postag": "AT"},
+			{ "position": 4, "token": "futu", "postag": "NN"},
+			{ "position": 5, "token": "go", "postag": "VB"},
+			{ "position": 6, "token": "na", "postag": "LOC"},
+			{ "position": 7, "token": "fesi", "postag": "NN"},
+			{ "position": 8, "token": "nanga", "postag": "CC"},
+			{ "position": 9, "token": "wan", "postag": "PRN"},
+			{ "position": 10, "token": "go", "postag": "VB"},
+			{ "position": 11, "token": "na", "postag": "LOC"},
+			{ "position": 12, "token": "baka", "postag": "NN"},
+			{ "position": 13, "token": ",", "postag": "PNCT"},
+			{ "position": 14, "token": "dan", "postag": "CC"},
+			{ "position": 15, "token": "a", "postag": "PRN"},
+			{ "position": 16, "token": "bigin", "postag": "VB"},
+			{ "position": 17, "token": "hari", "postag": "VB"},
+			{ "position": 18, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a hari bun tranga a si wan moi pikin fisi na a aka.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "hari", "postag": "VB"},
+			{ "position": 4, "token": "bun", "postag": "RB"},
+			{ "position": 5, "token": "tranga", "postag": "RB"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "si", "postag": "VB"},
+			{ "position": 8, "token": "wan", "postag": "AT"},
+			{ "position": 9, "token": "moi", "postag": "ST"},
+			{ "position": 10, "token": "pikin", "postag": "ST"},
+			{ "position": 11, "token": "fisi", "postag": "NN"},
+			{ "position": 12, "token": "na", "postag": "COP"},
+			{ "position": 13, "token": "a", "postag": "AT"},
+			{ "position": 14, "token": "aka", "postag": "NN"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a prakseri taki: ‘Fa so wan fisi kan hebi so?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "prakseri", "postag": "VB"},
+			{ "position": 4, "token": "taki", "postag": "COMPL"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Fa", "postag": "CS"},
+			{ "position": 8, "token": "so", "postag": "CC"},
+			{ "position": 9, "token": "wan", "postag": "AT"},
+			{ "position": 10, "token": "fisi", "postag": "NN"},
+			{ "position": 11, "token": "kan", "postag": "AUX"},
+			{ "position": 12, "token": "hebi", "postag": "VB"},
+			{ "position": 13, "token": "so", "postag": "RB"},
+			{ "position": 14, "token": "?", "postag": "PNCT"},
+			{ "position": 15, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma di a luku moro bun, a si taki a fisi no ben de wan lawlaw fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "di", "postag": "CS"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "luku", "postag": "VB"},
+			{ "position": 5, "token": "moro", "postag": "RB"},
+			{ "position": 6, "token": "bun", "postag": "RB"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "si", "postag": "VB"},
+			{ "position": 10, "token": "taki", "postag": "COMPL"},
+			{ "position": 11, "token": "a", "postag": "AT"},
+			{ "position": 12, "token": "fisi", "postag": "NN"},
+			{ "position": 13, "token": "no", "postag": "NEG"},
+			{ "position": 14, "token": "ben", "postag": "TMA"},
+			{ "position": 15, "token": "de", "postag": "EX"},
+			{ "position": 16, "token": "wan", "postag": "AT"},
+			{ "position": 17, "token": "lawlaw", "postag": "JJ"},
+			{ "position": 18, "token": "fisi", "postag": "NN"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A ben de wan gowtu fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "de", "postag": "EX"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "gowtu", "postag": "JJ"},
+			{ "position": 6, "token": "fisi", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a man bigin prisiri fu di a fanga wan gowtu fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "man", "postag": "NN"},
+			{ "position": 4, "token": "bigin", "postag": "VB"},
+			{ "position": 5, "token": "prisiri", "postag": "VB"},
+			{ "position": 6, "token": "fu", "postag": "CS"},
+			{ "position": 7, "token": "di", "postag": "CS"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "fanga", "postag": "VB"},
+			{ "position": 10, "token": "wan", "postag": "AT"},
+			{ "position": 11, "token": "gowtu", "postag": "JJ"},
+			{ "position": 12, "token": "fisi", "postag": "NN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "O moro a ben luku a fisi, o moro a fisi e moi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "O", "postag": "WP"},
+			{ "position": 2, "token": "moro", "postag": "RB"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "luku", "postag": "VB"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "fisi", "postag": "NN"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "o", "postag": "WP"},
+			{ "position": 10, "token": "moro", "postag": "RB"},
+			{ "position": 11, "token": "a", "postag": "AT"},
+			{ "position": 12, "token": "fisi", "postag": "NN"},
+			{ "position": 13, "token": "e", "postag": "TMA"},
+			{ "position": 14, "token": "moi", "postag": "ST"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na luku a luku a fisi, ne a yere wan sten aksi taki: ‘Fu sanede yu e luku mi so?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "luku", "postag": "VB"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "luku", "postag": "VB"},
+			{ "position": 5, "token": "a", "postag": "AT"},
+			{ "position": 6, "token": "fisi", "postag": "NN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "ne", "postag": "CC"},
+			{ "position": 9, "token": "a", "postag": "PRN"},
+			{ "position": 10, "token": "yere", "postag": "VB"},
+			{ "position": 11, "token": "wan", "postag": "AT"},
+			{ "position": 12, "token": "sten", "postag": "NN"},
+			{ "position": 13, "token": "aksi", "postag": "VB"},
+			{ "position": 14, "token": "taki", "postag": "COMPL"},
+			{ "position": 15, "token": ":", "postag": "PNCT"},
+			{ "position": 16, "token": "‘", "postag": "PNCT"},
+			{ "position": 17, "token": "Fu", "postag": "WP"},
+			{ "position": 18, "token": "sanede", "postag": "WP"},
+			{ "position": 19, "token": "yu", "postag": "PRN"},
+			{ "position": 20, "token": "e", "postag": "TMA"},
+			{ "position": 21, "token": "luku", "postag": "VB"},
+			{ "position": 22, "token": "mi", "postag": "PRN"},
+			{ "position": 23, "token": "so", "postag": "RB"},
+			{ "position": 24, "token": "?", "postag": "PNCT"},
+			{ "position": 25, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan Albert taki: ‘San!’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "San", "postag": "UH"},
+			{ "position": 7, "token": "!", "postag": "PNCT"},
+			{ "position": 8, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yu e taki?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yu", "postag": "PRN"},
+			{ "position": 2, "token": "e", "postag": "TMA"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": "?", "postag": "PNCT"},
+			{ "position": 5, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi piki taki: ‘Iya, mi e taki.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "piki", "postag": "VB"},
+			{ "position": 4, "token": "taki", "postag": "COMPL"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Iya", "postag": "UH"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "mi", "postag": "PRN"},
+			{ "position": 10, "token": "e", "postag": "TMA"},
+			{ "position": 11, "token": "taki", "postag": "VB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan Albert aksi taki: ‘Fa a du kon dati yu e taki?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "aksi", "postag": "VB"},
+			{ "position": 4, "token": "taki", "postag": "COMPL"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Fa", "postag": "WP"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "du", "postag": "VB"},
+			{ "position": 10, "token": "kon", "postag": "VB"},
+			{ "position": 11, "token": "dati", "postag": "COMPL"},
+			{ "position": 12, "token": "yu", "postag": "PRN"},
+			{ "position": 13, "token": "e", "postag": "TMA"},
+			{ "position": 14, "token": "taki", "postag": "VB"},
+			{ "position": 15, "token": "?", "postag": "PNCT"},
+			{ "position": 16, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi taki : ‘Mi no kan taigi yu fa dati du kon.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "Mi", "postag": "PRN"},
+			{ "position": 7, "token": "no", "postag": "NEG"},
+			{ "position": 8, "token": "kan", "postag": "AUX"},
+			{ "position": 9, "token": "taigi", "postag": "VB"},
+			{ "position": 10, "token": "yu", "postag": "PRN"},
+			{ "position": 11, "token": "fa", "postag": "REL"},
+			{ "position": 12, "token": "dati", "postag": "DT"},
+			{ "position": 13, "token": "du", "postag": "VB"},
+			{ "position": 14, "token": "kon", "postag": "VB"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma efu yu wani mi kan yepi yu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "efu", "postag": "CS"},
+			{ "position": 3, "token": "yu", "postag": "PRN"},
+			{ "position": 4, "token": "wani", "postag": "VB"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "kan", "postag": "AUX"},
+			{ "position": 7, "token": "yepi", "postag": "VB"},
+			{ "position": 8, "token": "yu", "postag": "PRN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Bikasi ala dei mi e si yu e kon uku dyaso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Bikasi", "postag": "CS"},
+			{ "position": 2, "token": "ala", "postag": "AB"},
+			{ "position": 3, "token": "dei", "postag": "NN"},
+			{ "position": 4, "token": "mi", "postag": "PRN"},
+			{ "position": 5, "token": "e", "postag": "TMA"},
+			{ "position": 6, "token": "si", "postag": "VB"},
+			{ "position": 7, "token": "yu", "postag": "PRN"},
+			{ "position": 8, "token": "e", "postag": "TMA"},
+			{ "position": 9, "token": "kon", "postag": "VB"},
+			{ "position": 10, "token": "uku", "postag": "VB"},
+			{ "position": 11, "token": "dyaso", "postag": "RB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Tide yu kan aksi mi wan sani, dan te yu go na oso yu sa si en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Tide", "postag": "RB"},
+			{ "position": 2, "token": "yu", "postag": "PRN"},
+			{ "position": 3, "token": "kan", "postag": "AUX"},
+			{ "position": 4, "token": "aksi", "postag": "VB"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "wan", "postag": "NUMB"},
+			{ "position": 7, "token": "sani", "postag": "NN"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "dan", "postag": "CC"},
+			{ "position": 10, "token": "te", "postag": "CS"},
+			{ "position": 11, "token": "yu", "postag": "PRN"},
+			{ "position": 12, "token": "go", "postag": "VB"},
+			{ "position": 13, "token": "na", "postag": "LOC"},
+			{ "position": 14, "token": "oso", "postag": "NN"},
+			{ "position": 15, "token": "yu", "postag": "PRN"},
+			{ "position": 16, "token": "sa", "postag": "AUX"},
+			{ "position": 17, "token": "si", "postag": "VB"},
+			{ "position": 18, "token": "en", "postag": "PRN"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma yu mu trowe mi go baka na ini a watra.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "yu", "postag": "PRN"},
+			{ "position": 3, "token": "mu", "postag": "AUX"},
+			{ "position": 4, "token": "trowe", "postag": "VB"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "baka", "postag": "RB"},
+			{ "position": 8, "token": "na", "postag": "LOC"},
+			{ "position": 9, "token": "ini", "postag": "IN"},
+			{ "position": 10, "token": "a", "postag": "AT"},
+			{ "position": 11, "token": "watra", "postag": "NN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert taki : ‘Ai, mi sa trowe yu go baka na ini a watra.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "Ai", "postag": "UH"},
+			{ "position": 6, "token": ",", "postag": "PNCT"},
+			{ "position": 7, "token": "mi", "postag": "PRN"},
+			{ "position": 8, "token": "sa", "postag": "AUX"},
+			{ "position": 9, "token": "trowe", "postag": "VB"},
+			{ "position": 10, "token": "yu", "postag": "PRN"},
+			{ "position": 11, "token": "go", "postag": "VB"},
+			{ "position": 12, "token": "baka", "postag": "RB"},
+			{ "position": 13, "token": "na", "postag": "LOC"},
+			{ "position": 14, "token": "ini", "postag": "IN"},
+			{ "position": 15, "token": "a", "postag": "AT"},
+			{ "position": 16, "token": "watra", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"},
+			{ "position": 18, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi aksi en: ‘Dan san yu wani dan?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "aksi", "postag": "VB"},
+			{ "position": 4, "token": "en", "postag": "PRN"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Dan", "postag": "CS"},
+			{ "position": 8, "token": "san", "postag": "WP"},
+			{ "position": 9, "token": "yu", "postag": "PRN"},
+			{ "position": 10, "token": "wani", "postag": "VB"},
+			{ "position": 11, "token": "dan", "postag": "RB"},
+			{ "position": 12, "token": "?", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert taki: ‘We yere, mi wani wan moi oso pe mi nanga mi frow kan tan na ini.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "We", "postag": "UH"},
+			{ "position": 6, "token": "yere", "postag": "UH"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "mi", "postag": "PRN"},
+			{ "position": 9, "token": "wani", "postag": "VB"},
+			{ "position": 10, "token": "wan", "postag": "AT"},
+			{ "position": 11, "token": "moi", "postag": "JJ"},
+			{ "position": 12, "token": "oso", "postag": "NN"},
+			{ "position": 13, "token": "pe", "postag": "REL"},
+			{ "position": 14, "token": "mi", "postag": "PRN"},
+			{ "position": 15, "token": "nanga", "postag": "CC"},
+			{ "position": 16, "token": "mi", "postag": "PP$"},
+			{ "position": 17, "token": "frow", "postag": "NN"},
+			{ "position": 18, "token": "kan", "postag": "AUX"},
+			{ "position": 19, "token": "tan", "postag": "VB"},
+			{ "position": 20, "token": "na", "postag": "LOC"},
+			{ "position": 21, "token": "ini", "postag": "NN"},
+			{ "position": 22, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "En a oso mus abi nyanyan nanga dringi.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "En", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "oso", "postag": "NN"},
+			{ "position": 4, "token": "mus", "postag": "AUX"},
+			{ "position": 5, "token": "abi", "postag": "VB"},
+			{ "position": 6, "token": "nyanyan", "postag": "NN"},
+			{ "position": 7, "token": "nanga", "postag": "CC"},
+			{ "position": 8, "token": "dringi", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"},
+			{ "position": 10, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi piki en taki: ‘A bun, te yu go na oso yu sa si taki den sani de.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "piki", "postag": "VB"},
+			{ "position": 4, "token": "en", "postag": "PRN"},
+			{ "position": 5, "token": "taki", "postag": "COMPL"},
+			{ "position": 6, "token": ":", "postag": "PNCT"},
+			{ "position": 7, "token": "‘", "postag": "PNCT"},
+			{ "position": 8, "token": "A", "postag": "PRN"},
+			{ "position": 9, "token": "bun", "postag": "ST"},
+			{ "position": 10, "token": ",", "postag": "PNCT"},
+			{ "position": 11, "token": "te", "postag": "CS"},
+			{ "position": 12, "token": "yu", "postag": "PRN"},
+			{ "position": 13, "token": "go", "postag": "VB"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "oso", "postag": "NN"},
+			{ "position": 16, "token": "yu", "postag": "PRN"},
+			{ "position": 17, "token": "sa", "postag": "AUX"},
+			{ "position": 18, "token": "si", "postag": "VB"},
+			{ "position": 19, "token": "taki", "postag": "COMPL"},
+			{ "position": 20, "token": "den", "postag": "AT"},
+			{ "position": 21, "token": "sani", "postag": "NN"},
+			{ "position": 22, "token": "de", "postag": "EX"},
+			{ "position": 23, "token": ".", "postag": "PNCT"},
+			{ "position": 24, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan Albert opo, a no uku moro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "opo", "postag": "VB"},
+			{ "position": 4, "token": ",", "postag": "PNCT"},
+			{ "position": 5, "token": "a", "postag": "PRN"},
+			{ "position": 6, "token": "no", "postag": "NEG"},
+			{ "position": 7, "token": "uku", "postag": "VB"},
+			{ "position": 8, "token": "moro", "postag": "RB"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A go na oso fu go luku efu a sani psa trutru.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "go", "postag": "VB"},
+			{ "position": 3, "token": "na", "postag": "LOC"},
+			{ "position": 4, "token": "oso", "postag": "NN"},
+			{ "position": 5, "token": "fu", "postag": "COMPL"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "luku", "postag": "VB"},
+			{ "position": 8, "token": "efu", "postag": "CS"},
+			{ "position": 9, "token": "a", "postag": "PRN"},
+			{ "position": 10, "token": "sani", "postag": "NN"},
+			{ "position": 11, "token": "psa", "postag": "VB"},
+			{ "position": 12, "token": "trutru", "postag": "RB"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A waka esesi go na oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "waka", "postag": "VB"},
+			{ "position": 3, "token": "esesi", "postag": "RB"},
+			{ "position": 4, "token": "go", "postag": "VB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "oso", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A miti wantu mati fu en na pasi di ben wani ori en nanga tori.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "miti", "postag": "VB"},
+			{ "position": 3, "token": "wantu", "postag": "AB"},
+			{ "position": 4, "token": "mati", "postag": "NN"},
+			{ "position": 5, "token": "fu", "postag": "IN"},
+			{ "position": 6, "token": "en", "postag": "PRN"},
+			{ "position": 7, "token": "na", "postag": "LOC"},
+			{ "position": 8, "token": "pasi", "postag": "NN"},
+			{ "position": 9, "token": "di", "postag": "REL"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "wani", "postag": "VB"},
+			{ "position": 12, "token": "ori", "postag": "VB"},
+			{ "position": 13, "token": "en", "postag": "PRN"},
+			{ "position": 14, "token": "nanga", "postag": "IN"},
+			{ "position": 15, "token": "tori", "postag": "NN"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma a no arki den srefi bikasi a ben wani si san psa na en oso .",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "arki", "postag": "VB"},
+			{ "position": 5, "token": "den", "postag": "PRN"},
+			{ "position": 6, "token": "srefi", "postag": "AP"},
+			{ "position": 7, "token": "bikasi", "postag": "CS"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "ben", "postag": "TMA"},
+			{ "position": 10, "token": "wani", "postag": "VB"},
+			{ "position": 11, "token": "si", "postag": "VB"},
+			{ "position": 12, "token": "san", "postag": "REL"},
+			{ "position": 13, "token": "psa", "postag": "VB"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "en", "postag": "PP$"},
+			{ "position": 16, "token": "oso", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a doro na oso a skreki.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "doro", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "oso", "postag": "NN"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "skreki", "postag": "VB"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Bikasi pe a patu ben de fosi, now wan moi oso tnapu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Bikasi", "postag": "CS"},
+			{ "position": 2, "token": "pe", "postag": "REL"},
+			{ "position": 3, "token": "a", "postag": "AT"},
+			{ "position": 4, "token": "patu", "postag": "NN"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "de", "postag": "EX"},
+			{ "position": 7, "token": "fosi", "postag": "RB"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "now", "postag": "RB"},
+			{ "position": 10, "token": "wan", "postag": "AT"},
+			{ "position": 11, "token": "moi", "postag": "JJ"},
+			{ "position": 12, "token": "oso", "postag": "NN"},
+			{ "position": 13, "token": "tnapu", "postag": "VB"},
+			{ "position": 14, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a go na ini a oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "go", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "ini", "postag": "IN"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "oso", "postag": "NN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A si en frow na ini a oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "si", "postag": "VB"},
+			{ "position": 3, "token": "en", "postag": "PP$"},
+			{ "position": 4, "token": "frow", "postag": "NN"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "ini", "postag": "IN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "oso", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Nyanyan ben de, dringi ben de.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Nyanyan", "postag": "NN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "de", "postag": "EX"},
+			{ "position": 4, "token": ",", "postag": "PNCT"},
+			{ "position": 5, "token": "dringi", "postag": "NN"},
+			{ "position": 6, "token": "ben", "postag": "TMA"},
+			{ "position": 7, "token": "de", "postag": "EX"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow lon kon na en masra, a brasa en dan a bigin fu taki: ‘Albert, fa a du kon dati a sani disi psa?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "lon", "postag": "VB"},
+			{ "position": 4, "token": "kon", "postag": "VB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "en", "postag": "PP$"},
+			{ "position": 7, "token": "masra", "postag": "NN"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "a", "postag": "PRN"},
+			{ "position": 10, "token": "brasa", "postag": "VB"},
+			{ "position": 11, "token": "en", "postag": "PRN"},
+			{ "position": 12, "token": "dan", "postag": "CC"},
+			{ "position": 13, "token": "a", "postag": "PRN"},
+			{ "position": 14, "token": "bigin", "postag": "VB"},
+			{ "position": 15, "token": "fu", "postag": "COMPL"},
+			{ "position": 16, "token": "taki", "postag": "VB"},
+			{ "position": 17, "token": ":", "postag": "PNCT"},
+			{ "position": 18, "token": "‘", "postag": "PNCT"},
+			{ "position": 19, "token": "Albert", "postag": "NP"},
+			{ "position": 20, "token": ",", "postag": "PNCT"},
+			{ "position": 21, "token": "fa", "postag": "WP"},
+			{ "position": 22, "token": "a", "postag": "PRN"},
+			{ "position": 23, "token": "du", "postag": "VB"},
+			{ "position": 24, "token": "kon", "postag": "VB"},
+			{ "position": 25, "token": "dati", "postag": "COMPL"},
+			{ "position": 26, "token": "a", "postag": "AT"},
+			{ "position": 27, "token": "sani", "postag": "NN"},
+			{ "position": 28, "token": "disi", "postag": "DT"},
+			{ "position": 29, "token": "psa", "postag": "VB"},
+			{ "position": 30, "token": "?", "postag": "PNCT"},
+			{ "position": 31, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan Albert bigin ferteri en frow fu a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "bigin", "postag": "VB"},
+			{ "position": 4, "token": "ferteri", "postag": "VB"},
+			{ "position": 5, "token": "en", "postag": "PP$"},
+			{ "position": 6, "token": "frow", "postag": "NN"},
+			{ "position": 7, "token": "fu", "postag": "IN"},
+			{ "position": 8, "token": "a", "postag": "AT"},
+			{ "position": 9, "token": "fisi", "postag": "NN"},
+			{ "position": 10, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Den ben breiti sote taki den bigin dansi na ini a oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Den", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "breiti", "postag": "VB"},
+			{ "position": 4, "token": "sote", "postag": "RB"},
+			{ "position": 5, "token": "taki", "postag": "COMPL"},
+			{ "position": 6, "token": "den", "postag": "PRN"},
+			{ "position": 7, "token": "bigin", "postag": "VB"},
+			{ "position": 8, "token": "dansi", "postag": "VB"},
+			{ "position": 9, "token": "na", "postag": "LOC"},
+			{ "position": 10, "token": "ini", "postag": "IN"},
+			{ "position": 11, "token": "a", "postag": "AT"},
+			{ "position": 12, "token": "oso", "postag": "NN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Den nyan te leki den bere kon furu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Den", "postag": "PRN"},
+			{ "position": 2, "token": "nyan", "postag": "VB"},
+			{ "position": 3, "token": "te", "postag": "CS"},
+			{ "position": 4, "token": "leki", "postag": "CS"},
+			{ "position": 5, "token": "den", "postag": "AT"},
+			{ "position": 6, "token": "bere", "postag": "NN"},
+			{ "position": 7, "token": "kon", "postag": "VB"},
+			{ "position": 8, "token": "furu", "postag": "ST"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan di den kba nyan Alma kari Albert.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "di", "postag": "CS"},
+			{ "position": 3, "token": "den", "postag": "PRN"},
+			{ "position": 4, "token": "kba", "postag": "VB"},
+			{ "position": 5, "token": "nyan", "postag": "VB"},
+			{ "position": 6, "token": "Alma", "postag": "NP"},
+			{ "position": 7, "token": "kari", "postag": "VB"},
+			{ "position": 8, "token": "Albert", "postag": "NP"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A taki : ‘A moro betre efu yu go baka na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "A", "postag": "PRN"},
+			{ "position": 6, "token": "moro", "postag": "RB"},
+			{ "position": 7, "token": "betre", "postag": "ST"},
+			{ "position": 8, "token": "efu", "postag": "CS"},
+			{ "position": 9, "token": "yu", "postag": "PRN"},
+			{ "position": 10, "token": "go", "postag": "VB"},
+			{ "position": 11, "token": "baka", "postag": "VB"},
+			{ "position": 12, "token": "na", "postag": "LOC"},
+			{ "position": 13, "token": "a", "postag": "AT"},
+			{ "position": 14, "token": "fisi", "postag": "NN"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yu sa man kari en baka?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yu", "postag": "PRN"},
+			{ "position": 2, "token": "sa", "postag": "AUX"},
+			{ "position": 3, "token": "man", "postag": "AUX"},
+			{ "position": 4, "token": "kari", "postag": "VB"},
+			{ "position": 5, "token": "en", "postag": "PRN"},
+			{ "position": 6, "token": "baka", "postag": "RB"},
+			{ "position": 7, "token": "?", "postag": "PNCT"},
+			{ "position": 8, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert piki taki: ‘Ai, mi sa man kari en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "piki", "postag": "VB"},
+			{ "position": 3, "token": "taki", "postag": "COMPL"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "Ai", "postag": "UH"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "mi", "postag": "PRN"},
+			{ "position": 9, "token": "sa", "postag": "AUX"},
+			{ "position": 10, "token": "man", "postag": "AUX"},
+			{ "position": 11, "token": "kari", "postag": "VB"},
+			{ "position": 12, "token": "en", "postag": "PRN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A ben taki te mi abi en fanowdu mi kan kari en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": "te", "postag": "CS"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "abi", "postag": "VB"},
+			{ "position": 7, "token": "en", "postag": "PRN"},
+			{ "position": 8, "token": "fanowdu", "postag": "VB"},
+			{ "position": 9, "token": "mi", "postag": "PRN"},
+			{ "position": 10, "token": "kan", "postag": "AUX"},
+			{ "position": 11, "token": "kari", "postag": "VB"},
+			{ "position": 12, "token": "en", "postag": "PRN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi ben fergiti fu taigi yu dati.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "fergiti", "postag": "VB"},
+			{ "position": 4, "token": "fu", "postag": "COMPL"},
+			{ "position": 5, "token": "taigi", "postag": "VB"},
+			{ "position": 6, "token": "yu", "postag": "PRN"},
+			{ "position": 7, "token": "dati", "postag": "DT"},
+			{ "position": 8, "token": ".", "postag": "PNCT"},
+			{ "position": 9, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan frow Alma taki: ‘Aksi en wan moro bigi oso nanga wan ijskasi nanga wan gasfornuis nanga ala sani san musu de na ini wan oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "Alma", "postag": "NP"},
+			{ "position": 4, "token": "taki", "postag": "VB"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Aksi", "postag": "VB"},
+			{ "position": 8, "token": "en", "postag": "PRN"},
+			{ "position": 9, "token": "wan", "postag": "AT"},
+			{ "position": 10, "token": "moro", "postag": "RB"},
+			{ "position": 11, "token": "bigi", "postag": "JJ"},
+			{ "position": 12, "token": "oso", "postag": "NN"},
+			{ "position": 13, "token": "nanga", "postag": "CC"},
+			{ "position": 14, "token": "wan", "postag": "AT"},
+			{ "position": 15, "token": "ijskasi", "postag": "NN"},
+			{ "position": 16, "token": "nanga", "postag": "CC"},
+			{ "position": 17, "token": "wan", "postag": "AT"},
+			{ "position": 18, "token": "gasfornuis", "postag": "NN"},
+			{ "position": 19, "token": "nanga", "postag": "CC"},
+			{ "position": 20, "token": "ala", "postag": "AB"},
+			{ "position": 21, "token": "sani", "postag": "NN"},
+			{ "position": 22, "token": "san", "postag": "REL"},
+			{ "position": 23, "token": "musu", "postag": "AUX"},
+			{ "position": 24, "token": "de", "postag": "EX"},
+			{ "position": 25, "token": "na", "postag": "LOC"},
+			{ "position": 26, "token": "ini", "postag": "IN"},
+			{ "position": 27, "token": "wan", "postag": "AT"},
+			{ "position": 28, "token": "oso", "postag": "NN"},
+			{ "position": 29, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "En aksi en wan tu gowtu sani tu.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "En", "postag": "PRN"},
+			{ "position": 2, "token": "aksi", "postag": "VB"},
+			{ "position": 3, "token": "en", "postag": "PRN"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "tu", "postag": "NUMB"},
+			{ "position": 6, "token": "gowtu", "postag": "JJ"},
+			{ "position": 7, "token": "sani", "postag": "NN"},
+			{ "position": 8, "token": "tu", "postag": "RB"},
+			{ "position": 9, "token": ".", "postag": "PNCT"},
+			{ "position": 10, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Masra Albert taki: ‘A bun, mi sa aksi en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Masra", "postag": "NN"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "A", "postag": "AT"},
+			{ "position": 7, "token": "bun", "postag": "ST"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "mi", "postag": "PRN"},
+			{ "position": 10, "token": "sa", "postag": "AUX"},
+			{ "position": 11, "token": "aksi", "postag": "VB"},
+			{ "position": 12, "token": "en", "postag": "PRN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma tide mi no man go moro bikasi a lati kba.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "tide", "postag": "RB"},
+			{ "position": 3, "token": "mi", "postag": "PRN"},
+			{ "position": 4, "token": "no", "postag": "NEG"},
+			{ "position": 5, "token": "man", "postag": "AUX"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "moro", "postag": "RB"},
+			{ "position": 8, "token": "bikasi", "postag": "CS"},
+			{ "position": 9, "token": "a", "postag": "PRN"},
+			{ "position": 10, "token": "lati", "postag": "VB"},
+			{ "position": 11, "token": "kba", "postag": "RB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Tamara mi sa go.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Tamara", "postag": "RB"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "sa", "postag": "AUX"},
+			{ "position": 4, "token": "go", "postag": "VB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"},
+			{ "position": 6, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so den sribi na ini a moi oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "den", "postag": "PRN"},
+			{ "position": 4, "token": "sribi", "postag": "VB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "ini", "postag": "IN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "moi", "postag": "JJ"},
+			{ "position": 9, "token": "oso", "postag": "NN"},
+			{ "position": 10, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di dei opo Alma wiki Albert fu go na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "dei", "postag": "NN"},
+			{ "position": 3, "token": "opo", "postag": "VB"},
+			{ "position": 4, "token": "Alma", "postag": "NP"},
+			{ "position": 5, "token": "wiki", "postag": "VB"},
+			{ "position": 6, "token": "Albert", "postag": "NP"},
+			{ "position": 7, "token": "fu", "postag": "COMPL"},
+			{ "position": 8, "token": "go", "postag": "VB"},
+			{ "position": 9, "token": "na", "postag": "LOC"},
+			{ "position": 10, "token": "a", "postag": "AT"},
+			{ "position": 11, "token": "fisi", "postag": "NN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan so Albert opo go na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "so", "postag": "CC"},
+			{ "position": 3, "token": "Albert", "postag": "NP"},
+			{ "position": 4, "token": "opo", "postag": "VB"},
+			{ "position": 5, "token": "go", "postag": "VB"},
+			{ "position": 6, "token": "na", "postag": "LOC"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "fisi", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a doro, a aksi a fisi ala sani san a frow ben wani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "doro", "postag": "VB"},
+			{ "position": 4, "token": ",", "postag": "PNCT"},
+			{ "position": 5, "token": "a", "postag": "PRN"},
+			{ "position": 6, "token": "aksi", "postag": "VB"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "fisi", "postag": "NN"},
+			{ "position": 9, "token": "ala", "postag": "AB"},
+			{ "position": 10, "token": "sani", "postag": "NN"},
+			{ "position": 11, "token": "san", "postag": "REL"},
+			{ "position": 12, "token": "a", "postag": "AT"},
+			{ "position": 13, "token": "frow", "postag": "NN"},
+			{ "position": 14, "token": "ben", "postag": "TMA"},
+			{ "position": 15, "token": "wani", "postag": "VB"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a fisi taki dati a kan go na oso, ala sani san a aksi a sa kisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "fisi", "postag": "NN"},
+			{ "position": 4, "token": "taki", "postag": "VB"},
+			{ "position": 5, "token": "dati", "postag": "COMPL"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "kan", "postag": "AUX"},
+			{ "position": 8, "token": "go", "postag": "VB"},
+			{ "position": 9, "token": "na", "postag": "LOC"},
+			{ "position": 10, "token": "oso", "postag": "NN"},
+			{ "position": 11, "token": ",", "postag": "PNCT"},
+			{ "position": 12, "token": "ala", "postag": "AB"},
+			{ "position": 13, "token": "sani", "postag": "NN"},
+			{ "position": 14, "token": "san", "postag": "REL"},
+			{ "position": 15, "token": "a", "postag": "PRN"},
+			{ "position": 16, "token": "aksi", "postag": "VB"},
+			{ "position": 17, "token": "a", "postag": "PRN"},
+			{ "position": 18, "token": "sa", "postag": "AUX"},
+			{ "position": 19, "token": "kisi", "postag": "VB"},
+			{ "position": 20, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A lon go na oso fu si efu trutru den sani sa de na oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "lon", "postag": "VB"},
+			{ "position": 3, "token": "go", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "oso", "postag": "NN"},
+			{ "position": 6, "token": "fu", "postag": "COMPL"},
+			{ "position": 7, "token": "si", "postag": "VB"},
+			{ "position": 8, "token": "efu", "postag": "CS"},
+			{ "position": 9, "token": "trutru", "postag": "RB"},
+			{ "position": 10, "token": "den", "postag": "AT"},
+			{ "position": 11, "token": "sani", "postag": "NN"},
+			{ "position": 12, "token": "sa", "postag": "AUX"},
+			{ "position": 13, "token": "de", "postag": "EX"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "oso", "postag": "NN"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a doro na oso a si taki ala sani san a ben aksi a fisi ben de.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "doro", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "oso", "postag": "NN"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "si", "postag": "VB"},
+			{ "position": 8, "token": "taki", "postag": "COMPL"},
+			{ "position": 9, "token": "ala", "postag": "AB"},
+			{ "position": 10, "token": "sani", "postag": "NN"},
+			{ "position": 11, "token": "san", "postag": "REL"},
+			{ "position": 12, "token": "a", "postag": "PRN"},
+			{ "position": 13, "token": "ben", "postag": "TMA"},
+			{ "position": 14, "token": "aksi", "postag": "VB"},
+			{ "position": 15, "token": "a", "postag": "AT"},
+			{ "position": 16, "token": "fisi", "postag": "NN"},
+			{ "position": 17, "token": "ben", "postag": "TMA"},
+			{ "position": 18, "token": "de", "postag": "EX"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow ben weri moi gowtu sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "weri", "postag": "VB"},
+			{ "position": 5, "token": "moi", "postag": "JJ"},
+			{ "position": 6, "token": "gowtu", "postag": "JJ"},
+			{ "position": 7, "token": "sani", "postag": "NN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma den sani no ben sari en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "den", "postag": "AT"},
+			{ "position": 3, "token": "sani", "postag": "NN"},
+			{ "position": 4, "token": "no", "postag": "NEG"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "sari", "postag": "VB"},
+			{ "position": 7, "token": "en", "postag": "PRN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A ben wani moro sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "wani", "postag": "VB"},
+			{ "position": 4, "token": "moro", "postag": "AB"},
+			{ "position": 5, "token": "sani", "postag": "NN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A taigi en masra: ‘Yere, tamara te yu e go na a fisi yu musu aksi en wan wagi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "taigi", "postag": "VB"},
+			{ "position": 3, "token": "en", "postag": "PP$"},
+			{ "position": 4, "token": "masra", "postag": "NN"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Yere", "postag": "UH"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "tamara", "postag": "RB"},
+			{ "position": 10, "token": "te", "postag": "CS"},
+			{ "position": 11, "token": "yu", "postag": "PRN"},
+			{ "position": 12, "token": "e", "postag": "TMA"},
+			{ "position": 13, "token": "go", "postag": "VB"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "a", "postag": "AT"},
+			{ "position": 16, "token": "fisi", "postag": "NN"},
+			{ "position": 17, "token": "yu", "postag": "PRN"},
+			{ "position": 18, "token": "musu", "postag": "AUX"},
+			{ "position": 19, "token": "aksi", "postag": "VB"},
+			{ "position": 20, "token": "en", "postag": "PRN"},
+			{ "position": 21, "token": "wan", "postag": "AT"},
+			{ "position": 22, "token": "wagi", "postag": "NN"},
+			{ "position": 23, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Taigi en ooktu dati mi wani wan moro bigi oso leki wan kownu-oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Taigi", "postag": "VB"},
+			{ "position": 2, "token": "en", "postag": "PRN"},
+			{ "position": 3, "token": "ooktu", "postag": "RB"},
+			{ "position": 4, "token": "dati", "postag": "COMPL"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "wani", "postag": "VB"},
+			{ "position": 7, "token": "wan", "postag": "AT"},
+			{ "position": 8, "token": "moro", "postag": "RB"},
+			{ "position": 9, "token": "bigi", "postag": "JJ"},
+			{ "position": 10, "token": "oso", "postag": "NN"},
+			{ "position": 11, "token": "leki", "postag": "IN"},
+			{ "position": 12, "token": "wan", "postag": "AT"},
+			{ "position": 13, "token": "kownu-oso", "postag": "NN"},
+			{ "position": 14, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "En mi wawan no sa man krin a oso dati.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "En", "postag": "CC"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "wawan", "postag": "AP"},
+			{ "position": 4, "token": "no", "postag": "NEG"},
+			{ "position": 5, "token": "sa", "postag": "AUX"},
+			{ "position": 6, "token": "man", "postag": "AUX"},
+			{ "position": 7, "token": "krin", "postag": "VB"},
+			{ "position": 8, "token": "a", "postag": "A"},
+			{ "position": 9, "token": "oso", "postag": "NN"},
+			{ "position": 10, "token": "dati", "postag": "DT"},
+			{ "position": 11, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "We, meki a gi mi wan tu knekti fu du den wroko gi mi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "We", "postag": "UH"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "meki", "postag": "VB"},
+			{ "position": 4, "token": "a", "postag": "PRN"},
+			{ "position": 5, "token": "gi", "postag": "VB"},
+			{ "position": 6, "token": "mi", "postag": "PRN"},
+			{ "position": 7, "token": "wan", "postag": "AT"},
+			{ "position": 8, "token": "tu", "postag": "NUMB"},
+			{ "position": 9, "token": "knekti", "postag": "NN"},
+			{ "position": 10, "token": "fu", "postag": "COMPL"},
+			{ "position": 11, "token": "du", "postag": "VB"},
+			{ "position": 12, "token": "den", "postag": "AT"},
+			{ "position": 13, "token": "wroko", "postag": "NN"},
+			{ "position": 14, "token": "gi", "postag": "IN"},
+			{ "position": 15, "token": "mi", "postag": "PRN"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi mus gersi wan kownufrow èn yu mus gersi wan kownu.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "mus", "postag": "AUX"},
+			{ "position": 3, "token": "gersi", "postag": "VB"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "kownufrow", "postag": "NN"},
+			{ "position": 6, "token": "èn", "postag": "CC"},
+			{ "position": 7, "token": "yu", "postag": "PRN"},
+			{ "position": 8, "token": "mus", "postag": "AUX"},
+			{ "position": 9, "token": "gersi", "postag": "VB"},
+			{ "position": 10, "token": "wan", "postag": "AT"},
+			{ "position": 11, "token": "kownu", "postag": "NN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A man no ben lobi a tori, a taki: ‘Yere, a moro betre wi tan so.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "man", "postag": "NN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "lobi", "postag": "VB"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "tori", "postag": "NN"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "a", "postag": "PRN"},
+			{ "position": 10, "token": "taki", "postag": "VB"},
+			{ "position": 11, "token": ":", "postag": "PNCT"},
+			{ "position": 12, "token": "‘", "postag": "PNCT"},
+			{ "position": 13, "token": "Yere", "postag": "UH"},
+			{ "position": 14, "token": ",", "postag": "PNCT"},
+			{ "position": 15, "token": "a", "postag": "PRN"},
+			{ "position": 16, "token": "moro", "postag": "RB"},
+			{ "position": 17, "token": "betre", "postag": "ST"},
+			{ "position": 18, "token": "wi", "postag": "PRN"},
+			{ "position": 19, "token": "tan", "postag": "VB"},
+			{ "position": 20, "token": "so", "postag": "RB"},
+			{ "position": 21, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A libi bun so.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "libi", "postag": "NN"},
+			{ "position": 3, "token": "bun", "postag": "ST"},
+			{ "position": 4, "token": "so", "postag": "RB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"},
+			{ "position": 6, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow taki: ‘No, mi no wani tan so.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "No", "postag": "UH"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "mi", "postag": "PRN"},
+			{ "position": 9, "token": "no", "postag": "NEG"},
+			{ "position": 10, "token": "wani", "postag": "VB"},
+			{ "position": 11, "token": "tan", "postag": "VB"},
+			{ "position": 12, "token": "so", "postag": "RB"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi si taki yu na wan don man.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "si", "postag": "VB"},
+			{ "position": 3, "token": "taki", "postag": "COMPL"},
+			{ "position": 4, "token": "yu", "postag": "PRN"},
+			{ "position": 5, "token": "na", "postag": "COP"},
+			{ "position": 6, "token": "wan", "postag": "AT"},
+			{ "position": 7, "token": "don", "postag": "JJ"},
+			{ "position": 8, "token": "man", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi taki go wantron na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": "go", "postag": "VB"},
+			{ "position": 4, "token": "wantron", "postag": "RB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "fisi", "postag": "NN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yu no breiti dati yu feni wan fisi di kan gi yu ala sani san yu wani?",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yu", "postag": "PRN"},
+			{ "position": 2, "token": "no", "postag": "NEG"},
+			{ "position": 3, "token": "breiti", "postag": "VB"},
+			{ "position": 4, "token": "dati", "postag": "COMPL"},
+			{ "position": 5, "token": "yu", "postag": "PRN"},
+			{ "position": 6, "token": "feni", "postag": "VB"},
+			{ "position": 7, "token": "wan", "postag": "AT"},
+			{ "position": 8, "token": "fisi", "postag": "NN"},
+			{ "position": 9, "token": "di", "postag": "REL"},
+			{ "position": 10, "token": "kan", "postag": "AUX"},
+			{ "position": 11, "token": "gi", "postag": "VB"},
+			{ "position": 12, "token": "yu", "postag": "PRN"},
+			{ "position": 13, "token": "ala", "postag": "AB"},
+			{ "position": 14, "token": "sani", "postag": "NN"},
+			{ "position": 15, "token": "san", "postag": "REL"},
+			{ "position": 16, "token": "yu", "postag": "PRN"},
+			{ "position": 17, "token": "wani", "postag": "VB"},
+			{ "position": 18, "token": "?", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Opo go esesi na a fisi.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Opo", "postag": "VB"},
+			{ "position": 2, "token": "go", "postag": "VB"},
+			{ "position": 3, "token": "esesi", "postag": "RB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "a", "postag": "AT"},
+			{ "position": 6, "token": "fisi", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"},
+			{ "position": 8, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert ben frede gi en frow, a no ben wani a frow kisi atibron nanga en.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "frede", "postag": "VB"},
+			{ "position": 4, "token": "gi", "postag": "IN"},
+			{ "position": 5, "token": "en", "postag": "PP$"},
+			{ "position": 6, "token": "frow", "postag": "NN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "no", "postag": "NEG"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "wani", "postag": "VB"},
+			{ "position": 12, "token": "a", "postag": "AT"},
+			{ "position": 13, "token": "frow", "postag": "NN"},
+			{ "position": 14, "token": "kisi", "postag": "VB"},
+			{ "position": 15, "token": "atibron", "postag": "NN"},
+			{ "position": 16, "token": "nanga", "postag": "IN"},
+			{ "position": 17, "token": "en", "postag": "PRN"},
+			{ "position": 18, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so a go na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "go", "postag": "VB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "fisi", "postag": "NN"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A aksi a fisi ala sani san a frow ben wani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "aksi", "postag": "VB"},
+			{ "position": 3, "token": "a", "postag": "AT"},
+			{ "position": 4, "token": "fisi", "postag": "NN"},
+			{ "position": 5, "token": "ala", "postag": "AB"},
+			{ "position": 6, "token": "sani", "postag": "NN"},
+			{ "position": 7, "token": "san", "postag": "REL"},
+			{ "position": 8, "token": "a", "postag": "AT"},
+			{ "position": 9, "token": "frow", "postag": "VB"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "wani", "postag": "VB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a fisi taki: ‘Mi sa du disi ooktu gi yu, bikasi yu ben du mi wan bigi bun di yu ben fringi mi go baka na ini a watra.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "fisi", "postag": "VB"},
+			{ "position": 4, "token": "taki", "postag": "COMPL"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Mi", "postag": "PRN"},
+			{ "position": 8, "token": "sa", "postag": "AUX"},
+			{ "position": 9, "token": "du", "postag": "VB"},
+			{ "position": 10, "token": "disi", "postag": "DT"},
+			{ "position": 11, "token": "ooktu", "postag": "RB"},
+			{ "position": 12, "token": "gi", "postag": "IN"},
+			{ "position": 13, "token": "yu", "postag": "PRN"},
+			{ "position": 14, "token": ",", "postag": "PNCT"},
+			{ "position": 15, "token": "bikasi", "postag": "CS"},
+			{ "position": 16, "token": "yu", "postag": "PRN"},
+			{ "position": 17, "token": "ben", "postag": "TMA"},
+			{ "position": 18, "token": "du", "postag": "VB"},
+			{ "position": 19, "token": "mi", "postag": "PRN"},
+			{ "position": 20, "token": "wan", "postag": "AT"},
+			{ "position": 21, "token": "bigi", "postag": "JJ"},
+			{ "position": 22, "token": "bun", "postag": "NN"},
+			{ "position": 23, "token": "di", "postag": "CS"},
+			{ "position": 24, "token": "yu", "postag": "PRN"},
+			{ "position": 25, "token": "ben", "postag": "TMA"},
+			{ "position": 26, "token": "fringi", "postag": "VB"},
+			{ "position": 27, "token": "mi", "postag": "PRN"},
+			{ "position": 28, "token": "go", "postag": "VB"},
+			{ "position": 29, "token": "baka", "postag": "VB"},
+			{ "position": 30, "token": "na", "postag": "LOC"},
+			{ "position": 31, "token": "ini", "postag": "IN"},
+			{ "position": 32, "token": "a", "postag": "AT"},
+			{ "position": 33, "token": "watra", "postag": "NN"},
+			{ "position": 34, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yu kan go na oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yu", "postag": "PRN"},
+			{ "position": 2, "token": "kan", "postag": "AUX"},
+			{ "position": 3, "token": "go", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "oso", "postag": "NN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala sani san yu aksi mi, mi sa du gi yu.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "sani", "postag": "NN"},
+			{ "position": 3, "token": "san", "postag": "REL"},
+			{ "position": 4, "token": "yu", "postag": "PRN"},
+			{ "position": 5, "token": "aksi", "postag": "VB"},
+			{ "position": 6, "token": "mi", "postag": "PRN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "mi", "postag": "PRN"},
+			{ "position": 9, "token": "sa", "postag": "AUX"},
+			{ "position": 10, "token": "du", "postag": "VB"},
+			{ "position": 11, "token": "gi", "postag": "IN"},
+			{ "position": 12, "token": "yu", "postag": "PRN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"},
+			{ "position": 14, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a man go na oso a si ala sani di a ben aksi a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "man", "postag": "AUX"},
+			{ "position": 4, "token": "go", "postag": "VB"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "oso", "postag": "NN"},
+			{ "position": 7, "token": "a", "postag": "PRN"},
+			{ "position": 8, "token": "si", "postag": "VB"},
+			{ "position": 9, "token": "ala", "postag": "AB"},
+			{ "position": 10, "token": "sani", "postag": "NN"},
+			{ "position": 11, "token": "di", "postag": "REL"},
+			{ "position": 12, "token": "a", "postag": "PRN"},
+			{ "position": 13, "token": "ben", "postag": "TMA"},
+			{ "position": 14, "token": "aksi", "postag": "VB"},
+			{ "position": 15, "token": "a", "postag": "AT"},
+			{ "position": 16, "token": "fisi", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A skreki fu si en frow na tapu wan kownusturu nanga wan kroon na tapu en ede.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "skreki", "postag": "VB"},
+			{ "position": 3, "token": "fu", "postag": "COMPL"},
+			{ "position": 4, "token": "si", "postag": "VB"},
+			{ "position": 5, "token": "en", "postag": "PP$"},
+			{ "position": 6, "token": "frow", "postag": "NN"},
+			{ "position": 7, "token": "na", "postag": "LOC"},
+			{ "position": 8, "token": "tapu", "postag": "IN"},
+			{ "position": 9, "token": "wan", "postag": "AT"},
+			{ "position": 10, "token": "kownusturu", "postag": "NN"},
+			{ "position": 11, "token": "nanga", "postag": "CC"},
+			{ "position": 12, "token": "wan", "postag": "AT"},
+			{ "position": 13, "token": "kroon", "postag": "NN"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "tapu", "postag": "IN"},
+			{ "position": 16, "token": "en", "postag": "PP$"},
+			{ "position": 17, "token": "ede", "postag": "NN"},
+			{ "position": 18, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A ben gersi wan kownufrow.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "gersi", "postag": "VB"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "kownufrow", "postag": "NN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Furu sma ben de na ini a oso e wroko.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Furu", "postag": "AB"},
+			{ "position": 2, "token": "sma", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "de", "postag": "EX"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "ini", "postag": "IN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "oso", "postag": "NN"},
+			{ "position": 9, "token": "e", "postag": "TMA"},
+			{ "position": 10, "token": "wroko", "postag": "VB"},
+			{ "position": 11, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert nanga Alma ben gudu sote.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "nanga", "postag": "CC"},
+			{ "position": 3, "token": "Alma", "postag": "NP"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "gudu", "postag": "ST"},
+			{ "position": 6, "token": "sote", "postag": "RB"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala sani ben de na ini a oso.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "sani", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "de", "postag": "EX"},
+			{ "position": 5, "token": "na", "postag": "LOC"},
+			{ "position": 6, "token": "ini", "postag": "IN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "oso", "postag": "NN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A man ben breiti fu si fa en frow ben prisiri.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "man", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "breiti", "postag": "VB"},
+			{ "position": 5, "token": "fu", "postag": "COMPL"},
+			{ "position": 6, "token": "si", "postag": "VB"},
+			{ "position": 7, "token": "fa", "postag": "REL"},
+			{ "position": 8, "token": "en", "postag": "PP$"},
+			{ "position": 9, "token": "frow", "postag": "NN"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "prisiri", "postag": "VB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow ben lafu heri dei, èn someni leisi ini wan dei a ben weri tra krosi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "lafu", "postag": "VB"},
+			{ "position": 5, "token": "heri", "postag": "JJ"},
+			{ "position": 6, "token": "dei", "postag": "NN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "èn", "postag": "CC"},
+			{ "position": 9, "token": "someni", "postag": "AB"},
+			{ "position": 10, "token": "leisi", "postag": "NN"},
+			{ "position": 11, "token": "ini", "postag": "IN"},
+			{ "position": 12, "token": "wan", "postag": "AT"},
+			{ "position": 13, "token": "dei", "postag": "NN"},
+			{ "position": 14, "token": "a", "postag": "PRN"},
+			{ "position": 15, "token": "ben", "postag": "TMA"},
+			{ "position": 16, "token": "weri", "postag": "VB"},
+			{ "position": 17, "token": "tra", "postag": "JJ"},
+			{ "position": 18, "token": "krosi", "postag": "NN"},
+			{ "position": 19, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a frow kari a man, a taki: ‘Yere, a fisi na wan bun fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "frow", "postag": "NN"},
+			{ "position": 4, "token": "kari", "postag": "VB"},
+			{ "position": 5, "token": "a", "postag": "AT"},
+			{ "position": 6, "token": "man", "postag": "NN"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "a", "postag": "PRN"},
+			{ "position": 9, "token": "taki", "postag": "VB"},
+			{ "position": 10, "token": ":", "postag": "PNCT"},
+			{ "position": 11, "token": "‘", "postag": "PNCT"},
+			{ "position": 12, "token": "Yere", "postag": "UH"},
+			{ "position": 13, "token": ",", "postag": "PNCT"},
+			{ "position": 14, "token": "a", "postag": "AT"},
+			{ "position": 15, "token": "fisi", "postag": "NN"},
+			{ "position": 16, "token": "na", "postag": "COP"},
+			{ "position": 17, "token": "wan", "postag": "AT"},
+			{ "position": 18, "token": "bun", "postag": "JJ"},
+			{ "position": 19, "token": "fisi", "postag": "NN"},
+			{ "position": 20, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala sani san wi aksi en ai gi unu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "sani", "postag": "NN"},
+			{ "position": 3, "token": "san", "postag": "REL"},
+			{ "position": 4, "token": "wi", "postag": "PRN"},
+			{ "position": 5, "token": "aksi", "postag": "VB"},
+			{ "position": 6, "token": "en", "postag": "PP$"},
+			{ "position": 7, "token": "ai", "postag": "NN"},
+			{ "position": 8, "token": "gi", "postag": "VB"},
+			{ "position": 9, "token": "unu", "postag": "PRN"},
+			{ "position": 10, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Wi kon gudu trutru.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Wi", "postag": "PRN"},
+			{ "position": 2, "token": "kon", "postag": "VB"},
+			{ "position": 3, "token": "gudu", "postag": "ST"},
+			{ "position": 4, "token": "trutru", "postag": "RB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala sma e luku unu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "sma", "postag": "NN"},
+			{ "position": 3, "token": "e", "postag": "TMA"},
+			{ "position": 4, "token": "luku", "postag": "VB"},
+			{ "position": 5, "token": "unu", "postag": "PRN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi breiti fa yu ben fanga a fisi bikasi a puru unu na ini a poti libi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "breiti", "postag": "VB"},
+			{ "position": 3, "token": "fa", "postag": "REL"},
+			{ "position": 4, "token": "yu", "postag": "PRN"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "fanga", "postag": "VB"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "fisi", "postag": "NN"},
+			{ "position": 9, "token": "bikasi", "postag": "CS"},
+			{ "position": 10, "token": "a", "postag": "PRN"},
+			{ "position": 11, "token": "puru", "postag": "VB"},
+			{ "position": 12, "token": "unu", "postag": "PRN"},
+			{ "position": 13, "token": "na", "postag": "LOC"},
+			{ "position": 14, "token": "ini", "postag": "IN"},
+			{ "position": 15, "token": "a", "postag": "AT"},
+			{ "position": 16, "token": "poti", "postag": "JJ"},
+			{ "position": 17, "token": "libi", "postag": "NN"},
+			{ "position": 18, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Luku fa mi kon moi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Luku", "postag": "VB"},
+			{ "position": 2, "token": "fa", "postag": "REL"},
+			{ "position": 3, "token": "mi", "postag": "PRN"},
+			{ "position": 4, "token": "kon", "postag": "VB"},
+			{ "position": 5, "token": "moi", "postag": "ST"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yere, du wan laste sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yere", "postag": "UH"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "du", "postag": "VB"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "laste", "postag": "JJ"},
+			{ "position": 6, "token": "sani", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Go na a fisi dan yu e taigi en dati wi breiti nanga ala den sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Go", "postag": "VB"},
+			{ "position": 2, "token": "na", "postag": "LOC"},
+			{ "position": 3, "token": "a", "postag": "AT"},
+			{ "position": 4, "token": "fisi", "postag": "NN"},
+			{ "position": 5, "token": "dan", "postag": "CC"},
+			{ "position": 6, "token": "yu", "postag": "PRN"},
+			{ "position": 7, "token": "e", "postag": "TMA"},
+			{ "position": 8, "token": "taigi", "postag": "VB"},
+			{ "position": 9, "token": "en", "postag": "PRN"},
+			{ "position": 10, "token": "dati", "postag": "COMPL"},
+			{ "position": 11, "token": "wi", "postag": "PRN"},
+			{ "position": 12, "token": "breiti", "postag": "VB"},
+			{ "position": 13, "token": "nanga", "postag": "IN"},
+			{ "position": 14, "token": "ala", "postag": "AB"},
+			{ "position": 15, "token": "den", "postag": "AT"},
+			{ "position": 16, "token": "sani", "postag": "NN"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma wi wani wan laste sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "wi", "postag": "PRN"},
+			{ "position": 3, "token": "wani", "postag": "VB"},
+			{ "position": 4, "token": "wan", "postag": "NUMB"},
+			{ "position": 5, "token": "laste", "postag": "JJ"},
+			{ "position": 6, "token": "sani", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Wi wani dati den sma musu anbegi unu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Wi", "postag": "PRN"},
+			{ "position": 2, "token": "wani", "postag": "VB"},
+			{ "position": 3, "token": "dati", "postag": "COMPL"},
+			{ "position": 4, "token": "den", "postag": "AT"},
+			{ "position": 5, "token": "sma", "postag": "NN"},
+			{ "position": 6, "token": "musu", "postag": "AUX"},
+			{ "position": 7, "token": "anbegi", "postag": "VB"},
+			{ "position": 8, "token": "unu", "postag": "PRN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Wi wani tron leki Gado, meki libisma boigi gi unu.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Wi", "postag": "PRN"},
+			{ "position": 2, "token": "wani", "postag": "VB"},
+			{ "position": 3, "token": "tron", "postag": "VB"},
+			{ "position": 4, "token": "leki", "postag": "IN"},
+			{ "position": 5, "token": "Gado", "postag": "NP"},
+			{ "position": 6, "token": ",", "postag": "PNCT"},
+			{ "position": 7, "token": "meki", "postag": "VB"},
+			{ "position": 8, "token": "libisma", "postag": "NN"},
+			{ "position": 9, "token": "boigi", "postag": "VB"},
+			{ "position": 10, "token": "gi", "postag": "IN"},
+			{ "position": 11, "token": "unu", "postag": "PRN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A man taki: ‘No, mi no wani aksi so wan sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "man", "postag": "NN"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "No", "postag": "UH"},
+			{ "position": 7, "token": ",", "postag": "PNCT"},
+			{ "position": 8, "token": "mi", "postag": "PRN"},
+			{ "position": 9, "token": "no", "postag": "NEG"},
+			{ "position": 10, "token": "wani", "postag": "VB"},
+			{ "position": 11, "token": "aksi", "postag": "VB"},
+			{ "position": 12, "token": "so", "postag": "RB"},
+			{ "position": 13, "token": "wan", "postag": "JJ"},
+			{ "position": 14, "token": "sani", "postag": "NN"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "No wan sma no kan de leki Gado.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "No", "postag": "NEG"},
+			{ "position": 2, "token": "wan", "postag": "AT"},
+			{ "position": 3, "token": "sma", "postag": "NN"},
+			{ "position": 4, "token": "no", "postag": "NEG"},
+			{ "position": 5, "token": "kan", "postag": "AUX"},
+			{ "position": 6, "token": "de", "postag": "EX"},
+			{ "position": 7, "token": "leki", "postag": "IN"},
+			{ "position": 8, "token": "Gado", "postag": "NP"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Fa yu kan seni mi fu go aksi so wan sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Fa", "postag": "CS"},
+			{ "position": 2, "token": "yu", "postag": "PRN"},
+			{ "position": 3, "token": "kan", "postag": "AUX"},
+			{ "position": 4, "token": "seni", "postag": "VB"},
+			{ "position": 5, "token": "mi", "postag": "PRN"},
+			{ "position": 6, "token": "fu", "postag": "COMPL"},
+			{ "position": 7, "token": "go", "postag": "VB"},
+			{ "position": 8, "token": "aksi", "postag": "VB"},
+			{ "position": 9, "token": "so", "postag": "RB"},
+			{ "position": 10, "token": "wan", "postag": "JJ"},
+			{ "position": 11, "token": "sani", "postag": "NN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi no o go.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "no", "postag": "NEG"},
+			{ "position": 3, "token": "o", "postag": "TMA"},
+			{ "position": 4, "token": "go", "postag": "VB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"},
+			{ "position": 6, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A frow atibron nanga Albert.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "frow", "postag": "NN"},
+			{ "position": 3, "token": "atibron", "postag": "VB"},
+			{ "position": 4, "token": "nanga", "postag": "IN"},
+			{ "position": 5, "token": "Albert", "postag": "NP"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A bigin rigeri.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "bigin", "postag": "VB"},
+			{ "position": 3, "token": "rigeri", "postag": "VB"},
+			{ "position": 4, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A taki: ‘Fa yu don so ?",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "Fa", "postag": "WP"},
+			{ "position": 6, "token": "yu", "postag": "PRN"},
+			{ "position": 7, "token": "don", "postag": "VB"},
+			{ "position": 8, "token": "so", "postag": "RB"},
+			{ "position": 9, "token": "?", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Yu don moro wan kaw.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Yu", "postag": "PRN"},
+			{ "position": 2, "token": "don", "postag": "VB"},
+			{ "position": 3, "token": "moro", "postag": "RB"},
+			{ "position": 4, "token": "wan", "postag": "AT"},
+			{ "position": 5, "token": "kaw", "postag": "NN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi taki mi wani de leki Gado.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": "mi", "postag": "PRN"},
+			{ "position": 4, "token": "wani", "postag": "VB"},
+			{ "position": 5, "token": "de", "postag": "EX"},
+			{ "position": 6, "token": "leki", "postag": "IN"},
+			{ "position": 7, "token": "Gado", "postag": "NP"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Go esbiten na a fisi go aksi en.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Go", "postag": "VB"},
+			{ "position": 2, "token": "esbiten", "postag": "RB"},
+			{ "position": 3, "token": "na", "postag": "LOC"},
+			{ "position": 4, "token": "a", "postag": "AT"},
+			{ "position": 5, "token": "fisi", "postag": "NN"},
+			{ "position": 6, "token": "go", "postag": "VB"},
+			{ "position": 7, "token": "aksi", "postag": "VB"},
+			{ "position": 8, "token": "en", "postag": "PRN"},
+			{ "position": 9, "token": ".", "postag": "PNCT"},
+			{ "position": 10, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "We, fu di a man disi no lobi te en frow e kisi atibron, a go baka na a fisi.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "We", "postag": "UH"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "fu", "postag": "CS"},
+			{ "position": 4, "token": "di", "postag": "CS"},
+			{ "position": 5, "token": "a", "postag": "AT"},
+			{ "position": 6, "token": "man", "postag": "NN"},
+			{ "position": 7, "token": "disi", "postag": "DT"},
+			{ "position": 8, "token": "no", "postag": "NEG"},
+			{ "position": 9, "token": "lobi", "postag": "VB"},
+			{ "position": 10, "token": "te", "postag": "CS"},
+			{ "position": 11, "token": "en", "postag": "PP$"},
+			{ "position": 12, "token": "frow", "postag": "NN"},
+			{ "position": 13, "token": "e", "postag": "TMA"},
+			{ "position": 14, "token": "kisi", "postag": "VB"},
+			{ "position": 15, "token": "atibron", "postag": "NN"},
+			{ "position": 16, "token": ",", "postag": "PNCT"},
+			{ "position": 17, "token": "a", "postag": "PRN"},
+			{ "position": 18, "token": "go", "postag": "VB"},
+			{ "position": 19, "token": "baka", "postag": "VB"},
+			{ "position": 20, "token": "na", "postag": "LOC"},
+			{ "position": 21, "token": "a", "postag": "AT"},
+			{ "position": 22, "token": "fisi", "postag": "NN"},
+			{ "position": 23, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a doro a aksi a fisi ala sani san a frow ben wani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "doro", "postag": "VB"},
+			{ "position": 4, "token": "a", "postag": "PRN"},
+			{ "position": 5, "token": "aksi", "postag": "VB"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "fisi", "postag": "NN"},
+			{ "position": 8, "token": "ala", "postag": "AB"},
+			{ "position": 9, "token": "sani", "postag": "NN"},
+			{ "position": 10, "token": "san", "postag": "REL"},
+			{ "position": 11, "token": "a", "postag": "AT"},
+			{ "position": 12, "token": "frow", "postag": "NN"},
+			{ "position": 13, "token": "ben", "postag": "TMA"},
+			{ "position": 14, "token": "wani", "postag": "VB"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi taki: ‘Yere dya.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "taki", "postag": "VB"},
+			{ "position": 4, "token": ":", "postag": "PNCT"},
+			{ "position": 5, "token": "‘", "postag": "PNCT"},
+			{ "position": 6, "token": "Yere", "postag": "VB"},
+			{ "position": 7, "token": "dya", "postag": "RB"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Noiti mi ben denki yu ben sa aksi mi so wan sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Noiti", "postag": "RB"},
+			{ "position": 2, "token": "mi", "postag": "PRN"},
+			{ "position": 3, "token": "ben", "postag": "TMA"},
+			{ "position": 4, "token": "denki", "postag": "VB"},
+			{ "position": 5, "token": "yu", "postag": "PRN"},
+			{ "position": 6, "token": "ben", "postag": "TMA"},
+			{ "position": 7, "token": "sa", "postag": "AUX"},
+			{ "position": 8, "token": "aksi", "postag": "VB"},
+			{ "position": 9, "token": "mi", "postag": "PRN"},
+			{ "position": 10, "token": "so", "postag": "RB"},
+			{ "position": 11, "token": "wan", "postag": "AT"},
+			{ "position": 12, "token": "sani", "postag": "NN"},
+			{ "position": 13, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ala sani san yu ben aksi mi, mi gi yu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ala", "postag": "AB"},
+			{ "position": 2, "token": "sani", "postag": "NN"},
+			{ "position": 3, "token": "san", "postag": "REL"},
+			{ "position": 4, "token": "yu", "postag": "PRN"},
+			{ "position": 5, "token": "ben", "postag": "TMA"},
+			{ "position": 6, "token": "aksi", "postag": "VB"},
+			{ "position": 7, "token": "mi", "postag": "PRN"},
+			{ "position": 8, "token": ",", "postag": "PNCT"},
+			{ "position": 9, "token": "mi", "postag": "PRN"},
+			{ "position": 10, "token": "gi", "postag": "VB"},
+			{ "position": 11, "token": "yu", "postag": "PRN"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi ben sa wani fu yepi yu ala ten.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "ben", "postag": "TMA"},
+			{ "position": 3, "token": "sa", "postag": "AUX"},
+			{ "position": 4, "token": "wani", "postag": "VB"},
+			{ "position": 5, "token": "fu", "postag": "COMPL"},
+			{ "position": 6, "token": "yepi", "postag": "VB"},
+			{ "position": 7, "token": "yu", "postag": "PRN"},
+			{ "position": 8, "token": "ala", "postag": "AB"},
+			{ "position": 9, "token": "ten", "postag": "NN"},
+			{ "position": 10, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ma yu gi mi sari nanga a sani di yu aksi mi now.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ma", "postag": "CC"},
+			{ "position": 2, "token": "yu", "postag": "PRN"},
+			{ "position": 3, "token": "gi", "postag": "VB"},
+			{ "position": 4, "token": "mi", "postag": "PRN"},
+			{ "position": 5, "token": "sari", "postag": "NN"},
+			{ "position": 6, "token": "nanga", "postag": "IN"},
+			{ "position": 7, "token": "a", "postag": "AT"},
+			{ "position": 8, "token": "sani", "postag": "NN"},
+			{ "position": 9, "token": "di", "postag": "REL"},
+			{ "position": 10, "token": "yu", "postag": "PRN"},
+			{ "position": 11, "token": "aksi", "postag": "VB"},
+			{ "position": 12, "token": "mi", "postag": "PRN"},
+			{ "position": 13, "token": "now", "postag": "RB"},
+			{ "position": 14, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Mi no kan gi yu a sani dati èn mi no abi prisiri nanga yu moro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Mi", "postag": "PRN"},
+			{ "position": 2, "token": "no", "postag": "NEG"},
+			{ "position": 3, "token": "kan", "postag": "AUX"},
+			{ "position": 4, "token": "gi", "postag": "VB"},
+			{ "position": 5, "token": "yu", "postag": "PRN"},
+			{ "position": 6, "token": "a", "postag": "AT"},
+			{ "position": 7, "token": "sani", "postag": "NN"},
+			{ "position": 8, "token": "dati", "postag": "DT"},
+			{ "position": 9, "token": "èn", "postag": "CC"},
+			{ "position": 10, "token": "mi", "postag": "PRN"},
+			{ "position": 11, "token": "no", "postag": "NEG"},
+			{ "position": 12, "token": "abi", "postag": "VB"},
+			{ "position": 13, "token": "prisiri", "postag": "NN"},
+			{ "position": 14, "token": "nanga", "postag": "IN"},
+			{ "position": 15, "token": "yu", "postag": "PRN"},
+			{ "position": 16, "token": "moro", "postag": "RB"},
+			{ "position": 17, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dati meki mi e teki ala sani baka di mi ben gi yu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dati", "postag": "CS"},
+			{ "position": 2, "token": "meki", "postag": "CS"},
+			{ "position": 3, "token": "mi", "postag": "PRN"},
+			{ "position": 4, "token": "e", "postag": "TMA"},
+			{ "position": 5, "token": "teki", "postag": "VB"},
+			{ "position": 6, "token": "ala", "postag": "AB"},
+			{ "position": 7, "token": "sani", "postag": "NN"},
+			{ "position": 8, "token": "baka", "postag": "CS"},
+			{ "position": 9, "token": "di", "postag": "CS"},
+			{ "position": 10, "token": "mi", "postag": "PRN"},
+			{ "position": 11, "token": "ben", "postag": "TMA"},
+			{ "position": 12, "token": "gi", "postag": "VB"},
+			{ "position": 13, "token": "yu", "postag": "PRN"},
+			{ "position": 14, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Go na yu oso dan yu sa si.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Go", "postag": "VB"},
+			{ "position": 2, "token": "na", "postag": "LOC"},
+			{ "position": 3, "token": "yu", "postag": "PP$"},
+			{ "position": 4, "token": "oso", "postag": "NN"},
+			{ "position": 5, "token": "dan", "postag": "CC"},
+			{ "position": 6, "token": "yu", "postag": "PRN"},
+			{ "position": 7, "token": "sa", "postag": "AUX"},
+			{ "position": 8, "token": "si", "postag": "VB"},
+			{ "position": 9, "token": ".", "postag": "PNCT"},
+			{ "position": 10, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A man skreki sote.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "man", "postag": "NN"},
+			{ "position": 3, "token": "skreki", "postag": "VB"},
+			{ "position": 4, "token": "sote", "postag": "RB"},
+			{ "position": 5, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a no si a fisi moro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "no", "postag": "NEG"},
+			{ "position": 4, "token": "si", "postag": "VB"},
+			{ "position": 5, "token": "a", "postag": "AT"},
+			{ "position": 6, "token": "fisi", "postag": "NN"},
+			{ "position": 7, "token": "moro", "postag": "RB"},
+			{ "position": 8, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi gwe.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "gwe", "postag": "VB"},
+			{ "position": 4, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A kari en, ma a no ben piki moro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "kari", "postag": "VB"},
+			{ "position": 3, "token": "en", "postag": "PRN"},
+			{ "position": 4, "token": ",", "postag": "PNCT"},
+			{ "position": 5, "token": "ma", "postag": "NN"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "no", "postag": "NEG"},
+			{ "position": 8, "token": "ben", "postag": "TMA"},
+			{ "position": 9, "token": "piki", "postag": "VB"},
+			{ "position": 10, "token": "moro", "postag": "RB"},
+			{ "position": 11, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Albert firi brokosaka.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Albert", "postag": "NP"},
+			{ "position": 2, "token": "firi", "postag": "VB"},
+			{ "position": 3, "token": "brokosaka", "postag": "NN"},
+			{ "position": 4, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so a drai go na oso baka.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "a", "postag": "PRN"},
+			{ "position": 4, "token": "drai", "postag": "VB"},
+			{ "position": 5, "token": "go", "postag": "VB"},
+			{ "position": 6, "token": "na", "postag": "LOC"},
+			{ "position": 7, "token": "oso", "postag": "NN"},
+			{ "position": 8, "token": "baka", "postag": "RB"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a doro na oso a no si a kownu-oso moro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "doro", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "oso", "postag": "NN"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "no", "postag": "NEG"},
+			{ "position": 8, "token": "si", "postag": "VB"},
+			{ "position": 9, "token": "a", "postag": "AT"},
+			{ "position": 10, "token": "kownu-oso", "postag": "NN"},
+			{ "position": 11, "token": "moro", "postag": "RB"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A si a owru bigi patu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "si", "postag": "VB"},
+			{ "position": 3, "token": "a", "postag": "AT"},
+			{ "position": 4, "token": "owru", "postag": "JJ"},
+			{ "position": 5, "token": "bigi", "postag": "JJ"},
+			{ "position": 6, "token": "patu", "postag": "NN"},
+			{ "position": 7, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Di a go na inisei a si a frow e krei na ondro a patu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Di", "postag": "CS"},
+			{ "position": 2, "token": "a", "postag": "PRN"},
+			{ "position": 3, "token": "go", "postag": "VB"},
+			{ "position": 4, "token": "na", "postag": "LOC"},
+			{ "position": 5, "token": "inisei", "postag": "NN"},
+			{ "position": 6, "token": "a", "postag": "PRN"},
+			{ "position": 7, "token": "si", "postag": "VB"},
+			{ "position": 8, "token": "a", "postag": "AT"},
+			{ "position": 9, "token": "frow", "postag": "NN"},
+			{ "position": 10, "token": "e", "postag": "TMA"},
+			{ "position": 11, "token": "krei", "postag": "VB"},
+			{ "position": 12, "token": "na", "postag": "LOC"},
+			{ "position": 13, "token": "ondro", "postag": "IN"},
+			{ "position": 14, "token": "a", "postag": "AT"},
+			{ "position": 15, "token": "patu", "postag": "NN"},
+			{ "position": 16, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A taki: ‘Frow, yu si san psa?",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "taki", "postag": "VB"},
+			{ "position": 3, "token": ":", "postag": "PNCT"},
+			{ "position": 4, "token": "‘", "postag": "PNCT"},
+			{ "position": 5, "token": "Frow", "postag": "UH"},
+			{ "position": 6, "token": ",", "postag": "PNCT"},
+			{ "position": 7, "token": "yu", "postag": "PRN"},
+			{ "position": 8, "token": "si", "postag": "VB"},
+			{ "position": 9, "token": "san", "postag": "REL"},
+			{ "position": 10, "token": "psa", "postag": "VB"},
+			{ "position": 11, "token": "?", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A fisi atibron nanga unu.’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "fisi", "postag": "NN"},
+			{ "position": 3, "token": "atibron", "postag": "VB"},
+			{ "position": 4, "token": "nanga", "postag": "IN"},
+			{ "position": 5, "token": "unu", "postag": "PRN"},
+			{ "position": 6, "token": ".", "postag": "PNCT"},
+			{ "position": 7, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a frow taki: ‘Fu sanede yu go aksi a fisi so wan sani?’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "frow", "postag": "NN"},
+			{ "position": 4, "token": "taki", "postag": "VB"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Fu", "postag": "WP"},
+			{ "position": 8, "token": "sanede", "postag": "WP"},
+			{ "position": 9, "token": "yu", "postag": "PRN"},
+			{ "position": 10, "token": "go", "postag": "VB"},
+			{ "position": 11, "token": "aksi", "postag": "VB"},
+			{ "position": 12, "token": "a", "postag": "AT"},
+			{ "position": 13, "token": "fisi", "postag": "NN"},
+			{ "position": 14, "token": "so", "postag": "RB"},
+			{ "position": 15, "token": "wan", "postag": "AT"},
+			{ "position": 16, "token": "sani", "postag": "NN"},
+			{ "position": 17, "token": "?", "postag": "PNCT"},
+			{ "position": 18, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ne Albert piki en: ‘Ma na yu seni mi!’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ne", "postag": "NP"},
+			{ "position": 2, "token": "Albert", "postag": "NP"},
+			{ "position": 3, "token": "piki", "postag": "VB"},
+			{ "position": 4, "token": "en", "postag": "PRN"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Ma", "postag": "PN"},
+			{ "position": 8, "token": "na", "postag": "FOC"},
+			{ "position": 9, "token": "yu", "postag": "PRN"},
+			{ "position": 10, "token": "seni", "postag": "VB"},
+			{ "position": 11, "token": "mi", "postag": "PRN"},
+			{ "position": 12, "token": "!", "postag": "PNCT"},
+			{ "position": 13, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Dan a frow taki: ‘Dan yu no ben musu go!’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Dan", "postag": "CC"},
+			{ "position": 2, "token": "a", "postag": "AT"},
+			{ "position": 3, "token": "frow", "postag": "NN"},
+			{ "position": 4, "token": "taki", "postag": "VB"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Dan", "postag": "CC"},
+			{ "position": 8, "token": "yu", "postag": "PRN"},
+			{ "position": 9, "token": "no", "postag": "NEG"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "musu", "postag": "AUX"},
+			{ "position": 12, "token": "go", "postag": "VB"},
+			{ "position": 13, "token": "!", "postag": "PNCT"},
+			{ "position": 14, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Ne den sma bigin kosi densrefi dan den bigin feti na ondro a patu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Ne", "postag": "UH"},
+			{ "position": 2, "token": "den", "postag": "AT"},
+			{ "position": 3, "token": "sma", "postag": "NN"},
+			{ "position": 4, "token": "bigin", "postag": "VB"},
+			{ "position": 5, "token": "kosi", "postag": "VB"},
+			{ "position": 6, "token": "densrefi", "postag": "PRN"},
+			{ "position": 7, "token": "dan", "postag": "CC"},
+			{ "position": 8, "token": "den", "postag": "PRN"},
+			{ "position": 9, "token": "bigin", "postag": "VB"},
+			{ "position": 10, "token": "feti", "postag": "VB"},
+			{ "position": 11, "token": "na", "postag": "LOC"},
+			{ "position": 12, "token": "ondro", "postag": "IN"},
+			{ "position": 13, "token": "a", "postag": "AT"},
+			{ "position": 14, "token": "patu", "postag": "NN"},
+			{ "position": 15, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A wan e bari: ‘Na yu seni mi!’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "PRN"},
+			{ "position": 2, "token": "wan", "postag": "AP"},
+			{ "position": 3, "token": "e", "postag": "TMA"},
+			{ "position": 4, "token": "bari", "postag": "VB"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Na", "postag": "LOC"},
+			{ "position": 8, "token": "yu", "postag": "PRN"},
+			{ "position": 9, "token": "seni", "postag": "VB"},
+			{ "position": 10, "token": "mi", "postag": "PRN"},
+			{ "position": 11, "token": "!", "postag": "PNCT"},
+			{ "position": 12, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "A trawan e bari: ‘Dan yu no ben musu go!’",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "A", "postag": "AT"},
+			{ "position": 2, "token": "trawan", "postag": "AP"},
+			{ "position": 3, "token": "e", "postag": "TMA"},
+			{ "position": 4, "token": "bari", "postag": "VB"},
+			{ "position": 5, "token": ":", "postag": "PNCT"},
+			{ "position": 6, "token": "‘", "postag": "PNCT"},
+			{ "position": 7, "token": "Dan", "postag": "CC"},
+			{ "position": 8, "token": "yu", "postag": "PRN"},
+			{ "position": 9, "token": "no", "postag": "NEG"},
+			{ "position": 10, "token": "ben", "postag": "TMA"},
+			{ "position": 11, "token": "musu", "postag": "AUX"},
+			{ "position": 12, "token": "go", "postag": "VB"},
+			{ "position": 13, "token": "!", "postag": "PNCT"},
+			{ "position": 14, "token": "’", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Na so den ben meki trobi go doro.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Na", "postag": "FOC"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "den", "postag": "PRN"},
+			{ "position": 4, "token": "ben", "postag": "TMA"},
+			{ "position": 5, "token": "meki", "postag": "VB"},
+			{ "position": 6, "token": "trobi", "postag": "NN"},
+			{ "position": 7, "token": "go", "postag": "VB"},
+			{ "position": 8, "token": "doro", "postag": "VB"},
+			{ "position": 9, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "We, a tori disi e leri unu taki un no musu haira na tapu grontapu sani.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "We", "postag": "UH"},
+			{ "position": 2, "token": ",", "postag": "PNCT"},
+			{ "position": 3, "token": "a", "postag": "AT"},
+			{ "position": 4, "token": "tori", "postag": "NN"},
+			{ "position": 5, "token": "disi", "postag": "DT"},
+			{ "position": 6, "token": "e", "postag": "TMA"},
+			{ "position": 7, "token": "leri", "postag": "VB"},
+			{ "position": 8, "token": "unu", "postag": "PRN"},
+			{ "position": 9, "token": "taki", "postag": "COMPL"},
+			{ "position": 10, "token": "un", "postag": "PRN"},
+			{ "position": 11, "token": "no", "postag": "NEG"},
+			{ "position": 12, "token": "musu", "postag": "AUX"},
+			{ "position": 13, "token": "haira", "postag": "ST"},
+			{ "position": 14, "token": "na", "postag": "LOC"},
+			{ "position": 15, "token": "tapu", "postag": "IN"},
+			{ "position": 16, "token": "grontapu", "postag": "NN"},
+			{ "position": 17, "token": "sani", "postag": "NN"},
+			{ "position": 18, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Bikasi te yu haira, yu wani sani di yu no man kisi, dan a sa tyari problema gi yu.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Bikasi", "postag": "CS"},
+			{ "position": 2, "token": "te", "postag": "CS"},
+			{ "position": 3, "token": "yu", "postag": "PRN"},
+			{ "position": 4, "token": "haira", "postag": "ST"},
+			{ "position": 5, "token": ",", "postag": "PNCT"},
+			{ "position": 6, "token": "yu", "postag": "PRN"},
+			{ "position": 7, "token": "wani", "postag": "VB"},
+			{ "position": 8, "token": "sani", "postag": "NN"},
+			{ "position": 9, "token": "di", "postag": "REL"},
+			{ "position": 10, "token": "yu", "postag": "PRN"},
+			{ "position": 11, "token": "no", "postag": "NEG"},
+			{ "position": 12, "token": "man", "postag": "AUX"},
+			{ "position": 13, "token": "kisi", "postag": "VB"},
+			{ "position": 14, "token": ",", "postag": "PNCT"},
+			{ "position": 15, "token": "dan", "postag": "CC"},
+			{ "position": 16, "token": "a", "postag": "PRN"},
+			{ "position": 17, "token": "sa", "postag": "AUX"},
+			{ "position": 18, "token": "tyari", "postag": "VB"},
+			{ "position": 19, "token": "problema", "postag": "NN"},
+			{ "position": 20, "token": "gi", "postag": "IN"},
+			{ "position": 21, "token": "yu", "postag": "PRN"},
+			{ "position": 22, "token": ".", "postag": "PNCT"}
+		]
+	},
+	{
+		"srn": "Te so fara a tori fu frow Alma nanga masra Albert.",
+		"en": "",
+		"nl": "",
+		"parse": [
+			{ "position": 1, "token": "Te", "postag": "CS"},
+			{ "position": 2, "token": "so", "postag": "RB"},
+			{ "position": 3, "token": "fara", "postag": "VB"},
+			{ "position": 4, "token": "a", "postag": "AT"},
+			{ "position": 5, "token": "tori", "postag": "NN"},
+			{ "position": 6, "token": "fu", "postag": "IN"},
+			{ "position": 7, "token": "frow", "postag": "NN"},
+			{ "position": 8, "token": "Alma", "postag": "NP"},
+			{ "position": 9, "token": "nanga", "postag": "IN"},
+			{ "position": 10, "token": "masra", "postag": "NN"},
+			{ "position": 11, "token": "Albert", "postag": "NP"},
+			{ "position": 12, "token": ".", "postag": "PNCT"}
+		]
+	}
+]
+}
