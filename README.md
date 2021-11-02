@@ -1,6 +1,6 @@
-# A part-of-speech tagger for Sranan-Tongo based on a Trigram Hidden Markov Model
+# A part-of-speech tagger for Sranan Tongo based on a Trigram Hidden Markov Model
 
-This project presents a prototype of a part-of-speech tagger for Sranan-Tongo using a 3-gram Hidden Markov Model. The model was trained on a set of 2945 sentences from three different sources:
+This project presents a prototype of a part-of-speech tagger for Sranan Tongo using a 3-gram Hidden Markov Model. The model was trained on a set of 2945 sentences from three different sources:
 
 1. Papers on Sranantongo" (Nickel Marilyn; Wilner John, Summer Institute of Linguistics. 1984) (208 sentences, 1571 tokens);
 2. Sranan structure dataset (Winford Donald; Plag Ingo, The Atlas of Pidgin and Creole Language Structures Online. APiCS. 2013) (270 sentences, 2467 tokens);
