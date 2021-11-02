@@ -1,4 +1,4 @@
-# A part-of-speech tagger for Sranan-Tongo based on a Trigram Hidden Markov Model. 
+# A part-of-speech tagger for Sranan-Tongo based on a Trigram Hidden Markov Model
 
 This project presents a prototype of a part-of-speech tagger for Sranan-Tongo using a 3-gram Hidden Markov Model. The model was trained on a set of 2945 sentences from three different sources:
 
